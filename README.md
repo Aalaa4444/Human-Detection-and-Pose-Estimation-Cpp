@@ -22,3 +22,7 @@ This project demonstrates how to convert minimal AI inference scripts written in
 - **Input**: `person.jpg`
 - **Output**: Human keypoints (poses) visualized
 
+### Requirements
+- C++ Compiler (e.g., g++)
+- OpenCV with DNN module
+- ONNX Runtime (depending on code path)
